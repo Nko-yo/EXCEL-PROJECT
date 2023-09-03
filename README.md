@@ -1,4 +1,4 @@
-# US
+# US_Regional_Sales
 ![pexels-heather-smith-170379](https://github.com/Nko-yo/EXCEL-PROJECT/assets/112330938/9aae6902-fb9e-431b-af49-fa6934e2df00)
 
 
